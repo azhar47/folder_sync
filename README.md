@@ -2,6 +2,7 @@ A simple Python script that synchronizes a source folder with a replica folder, 
 
 
 To run in CMD:
+
 python sync.py "<source_folder_path>" "<log_file_path>" <sync_interval_seconds>
 
 
