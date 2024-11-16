@@ -7,7 +7,9 @@ python sync.py "<source_folder_path>" "<log_file_path>" <sync_interval_seconds>
 
 Note: 
 <source_folder_path>: Provide the path to the folder you want to copy files from.
+
 <log_file_path>: Provide the path where the log file should be saved, including the log file's name.
+
 <sync_interval_seconds>: Specify the time interval (in seconds) between each sync operation.
 
 For an example :
